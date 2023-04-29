@@ -6,7 +6,7 @@ import java.util.ArrayList;
 /**
  * Creating Bill abstract class 
  * this class imolements method in other class
- * @author BAYAN
+ * @author Fatim
  */
 public abstract class Bill implements InterfaceBill, Comparable {
 
